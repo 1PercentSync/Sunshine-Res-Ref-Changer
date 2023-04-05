@@ -7,7 +7,7 @@ As a alternative to [QRes](https://docs.lizardbyte.dev/projects/sunshine/en/late
 ## Usage
 
 Add Command Preparation "Sunshine Res&Ref Changer.exe" 1920x1080@60
-
+"Sunshine Res&Ref Changer.exe" list to list avaliable combination
 ## Copyright
 
 CC0
