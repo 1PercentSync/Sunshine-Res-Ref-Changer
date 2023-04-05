@@ -1,0 +1,15 @@
+C:\Users\Alex\source\repos\Sunshine Res&Ref Changer\Sunshine Res&Ref Changer\bin\Debug\net6.0\Sunshine Res&Ref Changer.exe
+C:\Users\Alex\source\repos\Sunshine Res&Ref Changer\Sunshine Res&Ref Changer\bin\Debug\net6.0\Sunshine Res&Ref Changer.deps.json
+C:\Users\Alex\source\repos\Sunshine Res&Ref Changer\Sunshine Res&Ref Changer\bin\Debug\net6.0\Sunshine Res&Ref Changer.runtimeconfig.json
+C:\Users\Alex\source\repos\Sunshine Res&Ref Changer\Sunshine Res&Ref Changer\bin\Debug\net6.0\Sunshine Res&Ref Changer.dll
+C:\Users\Alex\source\repos\Sunshine Res&Ref Changer\Sunshine Res&Ref Changer\bin\Debug\net6.0\Sunshine Res&Ref Changer.pdb
+C:\Users\Alex\source\repos\Sunshine Res&Ref Changer\Sunshine Res&Ref Changer\obj\Debug\net6.0\Sunshine Res&Ref Changer.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\Sunshine Res&Ref Changer\Sunshine Res&Ref Changer\obj\Debug\net6.0\Sunshine Res&Ref Changer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\Sunshine Res&Ref Changer\Sunshine Res&Ref Changer\obj\Debug\net6.0\Sunshine Res&Ref Changer.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Sunshine Res&Ref Changer\Sunshine Res&Ref Changer\obj\Debug\net6.0\Sunshine Res&Ref Changer.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Sunshine Res&Ref Changer\Sunshine Res&Ref Changer\obj\Debug\net6.0\Sunshine Res&Ref Changer.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Sunshine Res&Ref Changer\Sunshine Res&Ref Changer\obj\Debug\net6.0\Sunshine Res&Ref Changer.dll
+C:\Users\Alex\source\repos\Sunshine Res&Ref Changer\Sunshine Res&Ref Changer\obj\Debug\net6.0\refint\Sunshine Res&Ref Changer.dll
+C:\Users\Alex\source\repos\Sunshine Res&Ref Changer\Sunshine Res&Ref Changer\obj\Debug\net6.0\Sunshine Res&Ref Changer.pdb
+C:\Users\Alex\source\repos\Sunshine Res&Ref Changer\Sunshine Res&Ref Changer\obj\Debug\net6.0\Sunshine Res&Ref Changer.genruntimeconfig.cache
+C:\Users\Alex\source\repos\Sunshine Res&Ref Changer\Sunshine Res&Ref Changer\obj\Debug\net6.0\ref\Sunshine Res&Ref Changer.dll

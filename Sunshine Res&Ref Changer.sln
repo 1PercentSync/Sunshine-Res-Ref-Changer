@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sunshine Res&Ref Changer", "Sunshine Res&Ref Changer\Sunshine Res&Ref Changer.csproj", "{F7E0BC29-B93B-4325-81BE-32DF9081EDDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7E0BC29-B93B-4325-81BE-32DF9081EDDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7E0BC29-B93B-4325-81BE-32DF9081EDDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7E0BC29-B93B-4325-81BE-32DF9081EDDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7E0BC29-B93B-4325-81BE-32DF9081EDDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CFE12B0-94A5-4E68-AF29-FEE6DC7649F3}
+	EndGlobalSection
+EndGlobal
