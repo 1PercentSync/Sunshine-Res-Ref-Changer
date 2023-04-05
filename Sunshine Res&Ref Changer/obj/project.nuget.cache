@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "YH0nDxVQFVaYdv31aGxpQ+tSY3+CizqntsIy5jdJUfxu/0SwyHWZwFn2V4P5Uf40uX4iL8CoM1n02Y5wIuB0EA==",
+  "dgSpecHash": "EDXsdBAs+dgcAZUGT4KT1jP4b8KZXHzi70G0hsvc0uFnncSqj58raftNlBKU90psO3JvSpjmGSUFWqHbkMZqSw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Alex\\source\\repos\\Sunshine Res&Ref Changer\\Sunshine Res&Ref Changer\\Sunshine Res&Ref Changer.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.15\\microsoft.netcore.app.runtime.win-x64.6.0.15.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.15\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.15.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.15\\microsoft.aspnetcore.app.runtime.win-x64.6.0.15.nupkg.sha512"
+  ],
   "logs": []
 }
