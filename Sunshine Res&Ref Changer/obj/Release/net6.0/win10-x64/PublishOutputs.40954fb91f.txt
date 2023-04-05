@@ -1,0 +1,2 @@
+C:\Users\Alex\source\repos\Sunshine Res&Ref Changer\Sunshine Res&Ref Changer\bin\Release\net6.0\win10-x64\publish\Sunshine Res&Ref Changer.pdb
+C:\Users\Alex\source\repos\Sunshine Res&Ref Changer\Sunshine Res&Ref Changer\bin\Release\net6.0\win10-x64\publish\Sunshine Res&Ref Changer.exe
