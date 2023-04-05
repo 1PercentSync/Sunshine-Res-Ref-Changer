@@ -7,6 +7,11 @@ namespace ScreenResolutionChanger
 {
     class Program
     {
+        const int DM_PELSWIDTH = 0x80000;
+        const int DM_PELSHEIGHT = 0x100000;
+        const int DM_DISPLAYFREQUENCY = 0x400000;
+
+
         [DllImport("user32.dll")]
         private static extern bool EnumDisplaySettings(string deviceName, int modeNum, ref DEVMODE devMode);
 
@@ -112,7 +117,7 @@ namespace ScreenResolutionChanger
             newDevMode.dmPelsWidth = width;
             newDevMode.dmPelsHeight = height;
             newDevMode.dmDisplayFrequency = frequency;
-            newDevMode.dmFields = 0x180000;
+            newDevMode.dmFields = DM_PELSWIDTH | DM_PELSHEIGHT | DM_DISPLAYFREQUENCY;
 
             int result = ChangeDisplaySettings(ref newDevMode, 0);
             if (result == 0)
